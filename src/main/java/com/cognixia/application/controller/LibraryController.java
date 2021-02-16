@@ -221,5 +221,6 @@ public class LibraryController {
 		session.setAttribute("adminId", null);
 		System.out.println("userid and adminid are null");
 		return "/";
+		//comment
 	}
 }
